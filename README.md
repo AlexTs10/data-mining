@@ -6,4 +6,4 @@ Open project-overview to see full project. The code is here and on colab (see ov
 ## Part 1:
 Using the California energy dataset do EDA (duck curve), find out energy sources outliers (Kmeans/DBscan), make a prediction model (LSTM) for the demand in a 5min interval.
 ## Part 2: 
-Using Amazon product reviews predict ther score (1-5) using a Random Forest Clasifier. Data Preprocesing is needed.
+Using Amazon product reviews predict their score (1-5) using a Random Forest Classifier. Data Preprocesing is also needed.
